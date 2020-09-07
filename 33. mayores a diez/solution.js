@@ -8,4 +8,4 @@ const greaterThanTen = (array) => {
   return newArray;
 };
 
-console.log(greaterThanTen([8, 10, 15]));
+greaterThanTen([8, 10, 15]);
